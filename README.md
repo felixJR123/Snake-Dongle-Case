@@ -23,8 +23,9 @@ For the M2 versions
 If the mounting hole in the buzzer is too large M3 x 8mm srew can be used instead of the M2 heat insert and screw
 
 For the #4-20 or M3 plastic screw versions
-Qty | Description                                               | Sample
-5   | #4-20 or M3 screw for plastic threads 8 thru 12mm long    | [Amazon](https://a.co/d/069thOSX) or [Ali Express](https://www.aliexpress.us/item/2255800056366946.html?spm=a2g0o.productlist.main.11.3989EgwIEgwI5q&algo_pvid=b2a9beb9-6c1d-44a3-b5d8-6094c2390595&algo_exp_id=b2a9beb9-6c1d-44a3-b5d8-6094c2390595-10&pdp_ext_f=%7B%22order%22%3A%22797%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis!USD!1.52!1.48!!!1.52!1.48!%40210319b017703471897706731e17f9!12000034183485822!sea!US!6156200203!X!1!0!n_tag%3A-29919%3Bd%3A1069fc62%3Bm03_new_user%3A-29895&curPageLogUid=R8LF9aevQwlW&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A4000242681698%7C_p_origin_prod%3A)
+| Qty | Description                                                       | Sample                                           |
+| --- | ----------------------------------------------------------------- | ------------------------------------------------ |
+| 5   | #4-20 or M3 screw for plastic threads 8 thru 12mm long            | [Amazon](https://a.co/d/069thOSX) or [Ali Express](https://www.aliexpress.us/item/2255800056366946.html?spm=a2g0o.productlist.main.11.3989EgwIEgwI5q&algo_pvid=b2a9beb9-6c1d-44a3-b5d8-6094c2390595&algo_exp_id=b2a9beb9-6c1d-44a3-b5d8-6094c2390595-10&pdp_ext_f=%7B%22order%22%3A%22797%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis!USD!1.52!1.48!!!1.52!1.48!%40210319b017703471897706731e17f9!12000034183485822!sea!US!6156200203!X!1!0!n_tag%3A-29919%3Bd%3A1069fc62%3Bm03_new_user%3A-29895&curPageLogUid=R8LF9aevQwlW&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A4000242681698%7C_p_origin_prod%3A)|
 
 ### Electronics
 All electronics are the same as on the Snake Dongle repo with the exception of the reset and menu switches.
