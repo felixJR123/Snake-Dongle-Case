@@ -8,14 +8,12 @@ There are 2 different types of enclosures for this dongle, one that use the orig
 ## Build Guide for enclosure 
 ### Parts needed
 
-### Enclosure
-If you choose to use the same parts specified in the dongle repo. The 3D files are located in the folder [Tactile Switches](https://github.com/felixJR123/Snake-Dongle-Case/tree/main/Files/Tactile%20Switches)
-
-If you choose to use the mouse switches, the rest of the parts will be the same as the dongle repo but you will need to purchase 2 mouse switches. The 3D files are located in the folder [Mouse Switches](https://github.com/felixJR123/Snake-Dongle-Case/tree/main/Files/Mouse%20Switches)
-
+### <ins>Enclosure</ins>
+If you choose to use the same parts specified in the dongle repo. The 3D files are located in the folder [Tactile Switches](https://github.com/felixJR123/Snake-Dongle-Case/tree/main/Files/Tactile%20Switches)  
+If you choose to use the mouse switches, the rest of the parts will be the same as the dongle repo but you will need to purchase 2 mouse switches. The 3D files are located in the folder [Mouse Switches](https://github.com/felixJR123/Snake-Dongle-Case/tree/main/Files/Mouse%20Switches)  
 There is also a version that uses tactile switches but the screen is the waveshare 1.54in https://www.waveshare.com/1.54inch-LCD-Module.htm The 3D files are located in the folder [Waveshare Screen](https://github.com/felixJR123/Snake-Dongle-Case/tree/main/Files/Waveshare%20Screen)
 
-### Screws 
+### <ins>Screws</ins> 
 For the M2 versions
 | Qty | Description                                                       | Sample                                           |
 | --- | ----------------------------------------------------------------- | ------------------------------------------------ |
@@ -29,7 +27,7 @@ For the #4-20 or M3 plastic screw versions
 | --- | ----------------------------------------------------------------- | ------------------------------------------------ |
 | 5   | #4-20 or M3 screw for plastic threads 8 thru 12mm long            | [Amazon](https://a.co/d/069thOSX) or [Ali Express](https://www.aliexpress.us/item/2255800056366946.html?spm=a2g0o.productlist.main.11.3989EgwIEgwI5q&algo_pvid=b2a9beb9-6c1d-44a3-b5d8-6094c2390595&algo_exp_id=b2a9beb9-6c1d-44a3-b5d8-6094c2390595-10&pdp_ext_f=%7B%22order%22%3A%22797%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis!USD!1.52!1.48!!!1.52!1.48!%40210319b017703471897706731e17f9!12000034183485822!sea!US!6156200203!X!1!0!n_tag%3A-29919%3Bd%3A1069fc62%3Bm03_new_user%3A-29895&curPageLogUid=R8LF9aevQwlW&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A4000242681698%7C_p_origin_prod%3A)|
 
-### Electronics
+### <ins>Electronics</ins>
 All electronics are the same as on the Snake Dongle repo with the exception of the reset and menu switches.
 The tactile switch version uses 2 6x6x8 tactile switch [Amazon](https://a.co/d/02oBYbTl) or [Ali Express](https://www.aliexpress.us/item/3256809519260867.html?spm=a2g0o.productlist.main.2.191fpmZwpmZwkX&algo_pvid=d6651fe3-3b54-4dac-88ac-8a9ded964fde&algo_exp_id=d6651fe3-3b54-4dac-88ac-8a9ded964fde-1&pdp_ext_f=%7B%22order%22%3A%227%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%213.64%211.82%21%21%2125.15%2112.57%21%40210328d417704882612115462eb3a3%2112000049910992171%21sea%21US%216156200203%21X%211%210%21n_tag%3A-29919%3Bd%3A1069fc62%3Bm03_new_user%3A-29895&curPageLogUid=RNHexiEzQvXp&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009705575619%7C_p_origin_prod%3A)\
 The mouse switch version uses 2 mouse switches [Amazon](https://a.co/d/0a1DLIsz) or [Ali Express](https://www.aliexpress.us/item/3256804568100432.html?spm=a2g0o.productlist.main.21.4e9efb6fV6hmwd&algo_pvid=6907cde6-52bf-4e42-9856-c91769b90653&algo_exp_id=6907cde6-52bf-4e42-9856-c91769b90653-20&pdp_ext_f=%7B%22order%22%3A%22260%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%215.94%215.94%21%21%215.94%215.94%21%4021030a6217704885538576110ef35b%2112000030346558628%21sea%21US%216156200203%21X%211%210%21n_tag%3A-29919%3Bd%3A1069fc62%3Bm03_new_user%3A-29895&curPageLogUid=ja7lt2Qbhg1n&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005004754415184%7C_p_origin_prod%3A)
