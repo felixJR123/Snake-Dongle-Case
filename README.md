@@ -9,9 +9,9 @@ There are 2 different types of enclosures for this dongle, one that use the orig
 ### Parts needed
 
 ### <ins>Enclosure</ins>
-If you choose to use the same parts specified in the dongle repo. The 3D files are located in the folder [Tactile Switches](https://github.com/felixJR123/Snake-Dongle-Case/tree/main/Files/Tactile%20Switches)  
-If you choose to use the mouse switches, the rest of the parts will be the same as the dongle repo but you will need to purchase 2 mouse switches. The 3D files are located in the folder [Mouse Switches](https://github.com/felixJR123/Snake-Dongle-Case/tree/main/Files/Mouse%20Switches)  
-There is also a version that uses tactile switches but the screen is the waveshare 1.54in https://www.waveshare.com/1.54inch-LCD-Module.htm The 3D files are located in the folder [Waveshare Screen](https://github.com/felixJR123/Snake-Dongle-Case/tree/main/Files/Waveshare%20Screen)
++ If you choose to use the same parts specified in the dongle repo. The 3D files are located in the folder [Tactile Switches](https://github.com/felixJR123/Snake-Dongle-Case/tree/main/Files/Tactile%20Switches)  
++ If you choose to use the mouse switches, the rest of the parts will be the same as the dongle repo but you will need to purchase 2 mouse switches. The 3D files are located in the folder [Mouse Switches](https://github.com/felixJR123/Snake-Dongle-Case/tree/main/Files/Mouse%20Switches)  
++ There is also a version that uses tactile switches but the screen is the waveshare 1.54in https://www.waveshare.com/1.54inch-LCD-Module.htm The 3D files are located in the folder [Waveshare Screen](https://github.com/felixJR123/Snake-Dongle-Case/tree/main/Files/Waveshare%20Screen)
 
 ### <ins>Screws</ins> 
 For the M2 versions
