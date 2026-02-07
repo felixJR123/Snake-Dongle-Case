@@ -84,7 +84,7 @@ After choosing which version to build and downloading the file make sure print o
 
 # Credits
 +[joaopedropio](https://github.com/joaopedropio) without him there would no be a dongle to make an enclosure for.  
-+[prospector dongle](thttps://github.com/carrefinho/prospector) I like the clean design of the enclosure.
++[prospector dongle](https://github.com/carrefinho/prospector) I like the clean design of the enclosure.
 
 
 
