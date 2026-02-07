@@ -36,8 +36,9 @@ The mouse switch version uses 2 mouse switches [Amazon](https://a.co/d/0a1DLIsz)
 Disclosure: I have NO afiliation to Amazon or Aliexpress. The links are only a reference of what to purchase, feel free to browse around.
 
 ### <ins>Printed Parts</ins>
-Each file contains all part needed for each build.  
+Each file contains all part needed for each build, the versions with the mouse switches have 2 extra buttons.  
 After choosing which version to build and downloading the file make sure print orientation is correct when compared to the picture below.
++ Supports are not necessary.
 + The screen holder is printed sideways and a brim is recommended for that part since the footprint touching the build plate is small.
 ![](Pictures/Print%20orientation.jpg)  
 
