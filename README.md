@@ -39,7 +39,7 @@ Disclosure: I have NO afiliation to Amazon or Aliexpress. The links are only a r
 Each file contains all part needed for each build.  
 After choosing which version to build and downloading the file make sure print orientation is correct when compared to the picture below.
 + The screen holder is printed sideways and a brim is recommended for that part since the footprint touching the build plate is small.
-![](Pictures/Print%20Orientation.jpg)  
+![](Pictures/Print%20orientation.jpg)  
 
 ### <ins>Before Assembly</ins>
 + Before assembly make sure all the wiring is complete.
