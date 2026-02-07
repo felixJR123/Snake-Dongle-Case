@@ -35,18 +35,23 @@ The mouse switch version uses 2 mouse switches [Amazon](https://a.co/d/0a1DLIsz)
 
 Disclosure: I have NO afiliation to Amazon or Aliexpress. The links are only a reference of what to purchase, feel free to browse around.
 
-### <ins>Assembly</ins>
+### <ins>Before Assembly</ins>
 + Before assembly make sure all the wiring is complete.
     + The buzzer usually comes with 90 degree header pins pre soldered and it needs to be removed or the buzzer will not fit in the enclosure, also it will be easier for the assembly to solder the wires from the mcu to the back side of the buzzer pcb.
     + Make sure there is enough slack in the wiring from the screen to the mcu.
+    + For the version with mouse switches remove supports where the mounting holes are.
+![](Pictures/Post%20Processing/Back%20Cover%20Support.jpg)  
+    + Depending if you are using a nicenano or a clone check and cut away extra material on the screen holder piece.
+![](Pictures/Post%20Processing/Screen%20Holder%20Modifications.jpg)  
 
+### <ins>Assembly</ins>
 + Most assembly instructions are the same for both versions, tactile and mouse switches. The only difference is the way the switches are mounted and the version with mouse switches have 2 extra 3d printed parts for the buttons. 
     + On both versions of the enclosure the switches are secured using pieces of regular 1.75mm 3d printer filament inserted thru a set of holes around where the switches sit.
 
 ### After all the electronics have been soldered and tested
 1. If you have one of the versions with M2 screws insert the heatset threads.
     + There are 2 in the main body and 2 at the tip of the rear cover where the screen holder goes.
-    + If the hole on the buzzer pcb is not too large for an M2 screw then a heatset insert can be placed in the hole where the buzzer mounts, otherwise use an M3 screw.
+    + If the hole on the buzzer pcb is not too large for an M2 screw then a heatset insert can be placed in the hole where the buzzer mounts, otherwise use an M3 screw threaded into the plastic.
 2. Mount the switches to the back of the enclosure
 + Tactile switch version
 ![](Pictures/Tactile%20Switch%20Assembly.jpg)
