@@ -57,7 +57,7 @@ After choosing which version to build and downloading the file make sure print o
     + There are 2 in the main body and 2 at the tip of the rear cover where the screen holder goes.
     + If the hole on the buzzer pcb is not too large for an M2 screw then a heatset insert can be placed in the hole where the buzzer mounts, otherwise use an M3 screw threaded into the plastic.
 2. Mount the switches to the back of the enclosure.
-+ Insert filament pieces thru the holes behing the switches until they bottom out at the end and cut the excess.
++ Insert filament pieces thru the holes behind the switches until they bottom out at the end and cut the excess.
     + I found sometimes the filament expands a little where is cut. If the snips are not sharp enough it crushes it then is very hard to push it all the way, will slide easier if is cut at an angle.
 + Tactile switch version
 ![](Pictures/Tactile%20Switch%20Assembly.jpg)
