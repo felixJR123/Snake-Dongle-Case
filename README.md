@@ -2,7 +2,8 @@
 ### I'm still have not finished the readme file. Please look at the pictures for assembly until the build guide is completed, the switches are held with pieces of filament inserted into the holes in the back piece.
 ### Before assembly make sure all the wiring is complete and the dongle is working, also leave enough slack on the cables from the screen to the mcu, the rest of the cables can be cut to size.
 
-This is a build guide for the enclosure of the [Snake Dongle](https://github.com/joaopedropio/snake-dongle)\
+This is a build guide for the enclosure of the [Snake Dongle](https://github.com/joaopedropio/snake-dongle)
+
 There are 2 different types of enclosures for this dongle, one that use the original 6x6x8 tactile switch specified on the snake dongle repo and one that use the switches used in computer mouse. Each of those versions have a variation for #4-20 or M3 screw with plastic threads and another variation for M2 screws and M2 heatset inserts .
 
 ## Build Guide for enclosure 
