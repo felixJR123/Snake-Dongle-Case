@@ -35,18 +35,24 @@ The mouse switch version uses 2 mouse switches [Amazon](https://a.co/d/0a1DLIsz)
 
 Disclosure: I have NO afiliation to Amazon or Aliexpress. The links are only a reference of what to purchase, feel free to browse around.
 
+### <ins>Printed Parts</ins>
+Each file contains all part needed for each build.  
+After choosing which version to build and downloading the file make sure print orientation is correct when compared to the picture below.
++ The screen holder is printed sideways and a brim is recommended for that part since the footprint touching the build plate is small.
+![](Pictures/Print%20Orientation.jpg)  
+
 ### <ins>Before Assembly</ins>
 + Before assembly make sure all the wiring is complete.
-    + The buzzer usually comes with 90 degree header pins pre soldered and it needs to be removed or the buzzer will not fit in the enclosure, also it will be easier for the assembly to solder the wires from the mcu to the back side of the buzzer pcb.
-    + Make sure there is enough slack in the wiring from the screen to the mcu.
-    + For the version with mouse switches remove supports where the mounting holes are.
++ The buzzer usually comes with 90 degree header pins pre soldered and it needs to be removed or the buzzer will not fit in the enclosure, also it will be easier for the assembly to solder the wires from the mcu to the back side of the buzzer pcb.
++ Make sure there is enough slack in the wiring from the screen to the mcu.
++ For the version with mouse switches remove supports where the mounting holes are.
 ![](Pictures/Post%20Processing/Back%20Cover%20Support.jpg)  
-    + Depending if you are using a nicenano or a clone check and cut away extra material on the screen holder piece.
++ Depending if you are using a nicenano or a clone check and cut away extra material on the screen holder piece.
 ![](Pictures/Post%20Processing/Screen%20Holder%20Modifications.jpg)  
 
 ### <ins>Assembly</ins>
 + Most assembly instructions are the same for both versions, tactile and mouse switches. The only difference is the way the switches are mounted and the version with mouse switches have 2 extra 3d printed parts for the buttons. 
-    + On both versions of the enclosure the switches are secured using pieces of regular 1.75mm 3d printer filament inserted thru a set of holes around where the switches sit.
++ On both versions of the enclosure the switches are secured using pieces of regular 1.75mm 3d printer filament inserted thru a set of holes around where the switches sit.
 
 ### After all the electronics have been soldered and tested
 1. If you have one of the versions with M2 screws insert the heatset threads.
@@ -69,9 +75,9 @@ Disclosure: I have NO afiliation to Amazon or Aliexpress. The links are only a r
 ![](Pictures/Tactile%20Switch%20Assembly%20with%20Screen%20Holder.jpg)
 
 5. Insert the screen in the main body with the wires going to the top of the enclosure
-    + 1. The screen slides from the top part of the mounting holes in the back
-    + 2. Then insert the bottom part of the pcb into the slot at the bottom of the main body
-    + 3. Then insert the top holes of the pcb into the pegs at the top of the main body.
+    1. The screen slides from the top part of the mounting holes in the back
+    2. Then insert the bottom part of the pcb into the slot at the bottom of the main body
+    3. Then insert the top holes of the pcb into the pegs at the top of the main body.
     + No glue or fasteners are needed to hold the screen, the back cover will hold it when inserted.
 ![](Pictures/Main%20Body%20with%20Screen.jpg)  
 
