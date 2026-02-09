@@ -58,7 +58,7 @@ After choosing which version to build and downloading the file make sure print o
     + If the hole on the buzzer pcb is not too large for an M2 screw then a heatset insert can be placed in the hole where the buzzer mounts, otherwise use an M3 screw threaded into the plastic.
 2. Mount the switches to the back of the enclosure.
 + Insert filament pieces thru the holes behind the switches until they bottom out at the end and cut the excess.
-    + I found sometimes the filament expands a little where is cut. If the snips are not sharp enough it crushes it then is very hard to push it all the way, will slide easier if is cut at an angle.
+    + I found sometimes the filament expands a little where is cut. If the snips are not sharp enough it crushes the filament then is very hard to push it all the way, will slide easier if is cut at an angle.
 + Tactile switch version
 ![](Pictures/Tactile%20Switch%20Assembly.jpg)
 + Mouse switch version
@@ -82,7 +82,7 @@ After choosing which version to build and downloading the file make sure print o
     + No glue or fasteners are needed to hold the screen, the back cover will hold it when inserted.
 ![](Pictures/Main%20Body%20with%20Screen.jpg)  
 
-6. Slide the back cover making sure the screed cables are not pressing against the screen holder part (I like to twist the screen wires into a bundle to make this part easier)
+6. Slide the back cover making sure the screen wires are not pressing against the screen holder part (I like to twist the screen wires into a bundle to make this part easier)
 ![](Pictures/Internal%20Assembly.jpg)
 
 # Credits
