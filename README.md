@@ -1,6 +1,8 @@
 # Snake Dongle Case
 This is a build guide for the enclosure of the [Snake Dongle](https://github.com/joaopedropio/snake-dongle)
 
+![](Pictures/Finished%20Dongle%20Picture.jpg)  
+
 There are 2 different types of enclosures for this dongle, one that use the original 6x6x8 tactile switch specified on the snake dongle repo and one that use the switches used in computer mouse. Each of those versions have a variation for #4-20 or M3 screw with plastic threads and another variation for M2 screws and M2 heatset inserts.
 
 ## Build Guide for enclosure 
